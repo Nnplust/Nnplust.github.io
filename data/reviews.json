@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Henry Cavill",
+        "title": "Founder & CEO",
+        "review": "This app is an excellent travel companion, always there whenever you need it. It has been a true lifesaver for me and my family.",
+        "rating": 5
+    },
+    {
+        "name": "Leonardo",
+        "title": "Founder & CEO",
+        "review": "This app has made traveling so much easier. It's reliable, user-friendly, and has been a great help to me and my friends during our trips.",
+        "rating": 5
+    },
+    {
+        "name": "Gal Gadot",
+        "title": "Traveler",
+        "review": "Absolutely fantastic! The features and functionality make exploring new places so much easier and enjoyable.",
+        "rating": 4
+    }
+]
